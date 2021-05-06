@@ -7,6 +7,8 @@ Materials used for my UBUG 2021 presentation: Data Analysis and Visualization wi
 
 To run the Jupyter Notebook software (now referred to as "Jupyter Lab"), run `jupyter-lab` in your terminal.
 
+See [here](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html) for more details on installation.
+
 ## Description
 This session will be an introduction the pandas Python library and Jupyter Notebook for data analysis and visualization.
 
