@@ -4,7 +4,8 @@ Materials used for my UBUG 2021 presentation: Data Analysis and Visualization wi
 ## Install
 - Requires Python and pip to be installed on your system
 - `pip install jupyterlab`
-- Run `jupyter-lab` in your terminal
+
+To run the Jupyter Notebook software (now referred to as "Jupyter Lab"), run `jupyter-lab` in your terminal.
 
 ## Description
 This session will be an introduction the pandas Python library and Jupyter Notebook for data analysis and visualization.
