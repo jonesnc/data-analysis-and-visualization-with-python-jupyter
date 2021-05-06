@@ -1,4 +1,4 @@
-# data-analysis-and-visualization-with-python-jupyter
+# UBUG 2021: Data Analysis and Visualization with Python and Jupyter Notebook
 Materials used for my UBUG 2021 presentation: Data Analysis and Visualization with Python and Jupyter Notebook
 
 ## Install
